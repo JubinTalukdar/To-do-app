@@ -20,4 +20,4 @@ This To-Do List application allows users to manage their daily tasks effectively
 - **HTML**
 - **CSS**
 - **JavaScript**
-  ![Screenshot of the To-Do List App](Screenshot (202).png
+  ![Screenshot of the To-Do List App](Screenshot%20(202).png)
